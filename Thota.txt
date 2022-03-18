@@ -1,0 +1,6 @@
+Iam: 1
+Pariveshita: 1
+Big: 1
+Data: 1
+Developer: 1
+Hi: 1
